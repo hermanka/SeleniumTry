@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-07T20:59:49 ICT" name="TestSuite1" finished-at="2023-02-07T21:00:12 ICT" duration-ms="22523">
+  <suite name="TestCase1" duration-ms="17247" started-at="2023-02-08T00:01:46 ICT" finished-at="2023-02-08T00:02:03 ICT">
     <groups>
     </groups>
-    <test started-at="2023-02-07T20:59:49 ICT" name="AUT Test 1" finished-at="2023-02-07T21:00:12 ICT" duration-ms="22523">
+    <test name="Command line test" duration-ms="17247" started-at="2023-02-08T00:01:46 ICT" finished-at="2023-02-08T00:02:03 ICT">
       <class name="TestCase1">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCase1@6babf3bf]" started-at="2023-02-07T20:59:49 ICT" name="setUp" finished-at="2023-02-07T21:00:05 ICT" duration-ms="15456" status="PASS">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase1@ea1a8d5]" name="setUp" is-config="true" duration-ms="11611" started-at="2023-02-08T00:01:46 ICT" finished-at="2023-02-08T00:01:57 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="firstTry()[pri:0, instance:TestCase1@6babf3bf]" started-at="2023-02-07T21:00:05 ICT" name="firstTry" finished-at="2023-02-07T21:00:11 ICT" duration-ms="6395" status="PASS">
+        <test-method status="PASS" signature="firstTry()[pri:0, instance:TestCase1@ea1a8d5]" name="firstTry" duration-ms="5042" started-at="2023-02-08T00:01:57 ICT" finished-at="2023-02-08T00:02:02 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTry -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase1@6babf3bf]" started-at="2023-02-07T21:00:11 ICT" name="tearDown" finished-at="2023-02-07T21:00:12 ICT" duration-ms="618" status="PASS">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase1@ea1a8d5]" name="tearDown" is-config="true" duration-ms="569" started-at="2023-02-08T00:02:02 ICT" finished-at="2023-02-08T00:02:03 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- TestCase1 -->
-    </test> <!-- AUT Test 1 -->
-  </suite> <!-- TestSuite1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestCase1 -->
 </testng-results>

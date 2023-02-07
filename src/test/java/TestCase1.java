@@ -36,7 +36,6 @@ public class TestCase1 {
         String expectedTitle = "Google";
         String actualTitle = driver.getTitle();
         Assert.assertEquals(actualTitle, expectedTitle);
-
     }
 
     @AfterTest
@@ -45,3 +44,5 @@ public class TestCase1 {
         driver.quit();
     }
 }
+
+

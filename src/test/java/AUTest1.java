@@ -36,7 +36,7 @@ public class AUTest1 {
 
     @Test
     public void firstTry() {
-        driver.get("http://localhost/AUT-Source/ajax.html");
+        driver.get("http://localhost/index.html");
         driver.findElement(By.id("no")).click();
         driver.findElement(By.id("buttoncheck")).click();        
         String expectedResult = "Radio button is checked and it's value is No";

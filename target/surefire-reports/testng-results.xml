@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="TestCase1" duration-ms="17247" started-at="2023-02-08T00:01:46 ICT" finished-at="2023-02-08T00:02:03 ICT">
+  <suite name="TestCase1" duration-ms="23182" started-at="2023-02-08T09:43:07 ICT" finished-at="2023-02-08T09:43:30 ICT">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="17247" started-at="2023-02-08T00:01:46 ICT" finished-at="2023-02-08T00:02:03 ICT">
+    <test name="Command line test" duration-ms="23182" started-at="2023-02-08T09:43:07 ICT" finished-at="2023-02-08T09:43:30 ICT">
       <class name="TestCase1">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase1@ea1a8d5]" name="setUp" is-config="true" duration-ms="11611" started-at="2023-02-08T00:01:46 ICT" finished-at="2023-02-08T00:01:57 ICT">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase1@ea1a8d5]" name="setUp" is-config="true" duration-ms="21830" started-at="2023-02-08T09:43:07 ICT" finished-at="2023-02-08T09:43:29 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="firstTry()[pri:0, instance:TestCase1@ea1a8d5]" name="firstTry" duration-ms="5042" started-at="2023-02-08T00:01:57 ICT" finished-at="2023-02-08T00:02:02 ICT">
+        <test-method status="PASS" signature="firstTry()[pri:0, instance:TestCase1@ea1a8d5]" name="firstTry" duration-ms="738" started-at="2023-02-08T09:43:29 ICT" finished-at="2023-02-08T09:43:29 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTry -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase1@ea1a8d5]" name="tearDown" is-config="true" duration-ms="569" started-at="2023-02-08T00:02:02 ICT" finished-at="2023-02-08T00:02:03 ICT">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestCase1@ea1a8d5]" name="tearDown" is-config="true" duration-ms="578" started-at="2023-02-08T09:43:29 ICT" finished-at="2023-02-08T09:43:30 ICT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
